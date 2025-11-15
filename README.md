@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Sir**
+# 👋 Hey, I'm **Muhammed Sinan M M**
 ### *Engineer by build, problem-solver by instinct.*
 
 I turn complex problems into neat, elegant solutions — or at least make them look like I didn’t almost launch my laptop out the window first.
@@ -48,8 +48,8 @@ I turn complex problems into neat, elegant solutions — or at least make them l
 
 ## 📫 Reach Me
 If you want to collaborate, hire me, or challenge me in a coding problem (at your own risk):  
-**Email:** your-email-here  
-**LinkedIn:** your-link-here
+**Email:** muhamedh.sinan@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/muhammedsinanmm/
 
 
 
