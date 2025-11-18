@@ -1,25 +1,24 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img style="width:100%; max-height:140px; object-fit:cover;" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&fontSize=60&fontColor=FFFFFF&fontAlign=50&color=gradient" />
+  <img style="width:100%; max-height:80px; object-fit:cover;" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=gradient" />
 </div>
 
-<!-- ===================== INTRO ===================== -->
-<h1 align="center">Hi, I'm <strong>Muhammed Sinan M M</strong> 👋</h1>
+<h1 align="center">Hi, I'm <strong>Sir</strong> 👋</h1>
 
 <p align="center">
-  <em>A developer who loves clean architecture, sharp logic, and building things that actually make sense.</em>
+  <em>A developer who enjoys clean logic, sharp problem-solving, and building things that actually work.</em>
 </p>
 
 <!-- ===================== PACMAN ===================== -->
-<div align="center" style="margin: 18px 0;">
-  <img alt="Pac-Man animation" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="160" />
+<div align="center" style="margin: 15px 0;">
+  <img alt="Pac-Man animation" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
-I focus on building reliable systems, exploring machine learning, and writing code that stays neat even on bad days.  
-I enjoy solving problems, learning quickly, and keeping things simple but effective.
+## 👨‍💻 About Me  
+I explore Machine Learning, build backend systems, and focus on clean, maintainable code.  
+I prefer simple solutions, fast iteration, and learning something new every day.
 
 ---
 
@@ -31,8 +30,8 @@ I enjoy solving problems, learning quickly, and keeping things simple but effect
 
 ### **Machine Learning**
 - NumPy · Pandas · Scikit-Learn  
-- Model training · Data preprocessing  
 - OpenCV fundamentals  
+- Model training & evaluation  
 
 ### **Backend & Databases**
 - REST APIs  
@@ -86,26 +85,24 @@ I enjoy solving problems, learning quickly, and keeping things simple but effect
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="44" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="44" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="44"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="44"/></a>
 </div>
 
 ---
 
 ## 📊 Activity Graph  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&radius=16&theme=react&area=true&order=4" height="240"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedsinanmm&radius=16&theme=react&area=true&order=4" height="240"/>
 </div>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
 <div align="center">
   <img style="width:100%; max-height:80px; object-fit:cover;" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=gradient" />
 </div>
-
