@@ -1,24 +1,23 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img style="width:100%; max-height:80px; object-fit:cover;" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=gradient" />
+  <img style="width:100%; max-height:80px; object-fit:cover;" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=gradient" />
 </div>
 
-<h1 align="center">Hi, I'm <strong>Sir</strong> 👋</h1>
+<h1 align="center"><strong>Muhammed Sinan M M</strong></h1>
 
 <p align="center">
-  <em>A developer who enjoys clean logic, sharp problem-solving, and building things that actually work.</em>
+  <em>A developer who enjoys clean logic, building reliable systems, and solving problems the smart way.</em>
 </p>
 
-<!-- ===================== PACMAN ===================== -->
 <div align="center" style="margin: 15px 0;">
-  <img alt="Pac-Man animation" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" />
+  <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-templates/master/pacman.svg" width="300" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me  
-I explore Machine Learning, build backend systems, and focus on clean, maintainable code.  
-I prefer simple solutions, fast iteration, and learning something new every day.
+I build backend systems, explore machine learning, and focus on writing code that stays clean, efficient, and maintainable.  
+I like simple architectures, fast iteration, and continuous learning.
 
 ---
 
@@ -30,7 +29,7 @@ I prefer simple solutions, fast iteration, and learning something new every day.
 
 ### **Machine Learning**
 - NumPy · Pandas · Scikit-Learn  
-- OpenCV fundamentals  
+- OpenCV basics  
 - Model training & evaluation  
 
 ### **Backend & Databases**
@@ -104,5 +103,6 @@ I prefer simple solutions, fast iteration, and learning something new every day.
 ---
 
 <div align="center">
-  <img style="width:100%; max-height:80px; object-fit:cover;" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=gradient" />
+  <img style="width:100%; max-height:80px; object-fit:cover;" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=gradient" />
 </div>
