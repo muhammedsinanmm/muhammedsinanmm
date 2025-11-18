@@ -9,9 +9,13 @@
   <em>A developer who enjoys clean logic, building reliable systems, and solving problems the smart way.</em>
 </p>
 
-<div align="center" style="margin: 15px 0;">
-  <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-templates/master/pacman.svg" width="300" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammedsinanmm/muhammedsinanmm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedsinanmm/muhammedsinanmm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammedsinanmm/muhammedsinanmm/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 
